@@ -11,7 +11,7 @@ namespace GradeBook.GradeBooks
         public RankedGradeBook(string name) : base(name)
         {
 
-           var Type = Enums.GradeBookType.Ranked;
+            Type = Enums.GradeBookType.Ranked;
         }
     }
 }
